@@ -30,13 +30,13 @@
 29;;preguntasTema29.csv;8;0;0;PENDIENTE;;
 30;30. Gestión del Porfolio.md;preguntasTema30.csv;1;0;0;ELABORADO;2026-10-01;"1 pregunta oficial cubierta (clave correcta). Sin doc. oficial público de ""Mapa de soluciones digitales"": tratado como concepto + mapa didáctico del catálogo ayudaDIGITAL"
 31;;preguntasTema31.csv;7;0;0;PENDIENTE;;
-32;32. La contratación de bienes y servicios TIC.md;preguntasTema32.csv;23;0;0;ELABORADO;01/10/2026;30 págs. 23 preguntas cubiertas; 2 claves desactualizadas por DL 3/2024 (169, 300: menores TIC → comunicación). Umbrales 2026, Ley 8/2025 DA 16ª, Decreto 189/2026
+32;32. La contratación de bienes y servicios TIC.md;preguntasTema32.csv;23;0;0;ELABORADO;01/10/2026;30 págs. 23 preguntas cubiertas. Enunciados de 169 y 300 adaptados al DL 3/2024 (02/10/2026). Umbrales 2026, Ley 8/2025 DA 16ª, Decreto 189/2026
 33;;preguntasTema33.csv;14;0;0;PENDIENTE;;
 34;;preguntasTema34.csv;9;0;0;PENDIENTE;;
 35;;preguntasTema35.csv;1;0;0;PENDIENTE;;
-36;36. ITIL ISO 20000 COBIT.md;preguntasTema36.csv;56;0;0;ELABORADO;01/10/2026;39 págs. 56 preguntas OK (1 clave probablemente errónea: 7021; 1 discutible: 6325). Añadidos ITIL (Version 5) 2026, ISO 20000-1 Amd 1:2024, COBIT 2019 + actualización anunciada
+36;36. ITIL ISO 20000 COBIT.md;preguntasTema36.csv;56;0;0;ELABORADO;01/10/2026;39 págs. 56 preguntas OK (clave 7021 corregida A→C en CSV (02/10/2026); 1 discutible: 6325). Añadidos ITIL (Version 5) 2026, ISO 20000-1 Amd 1:2024, COBIT 2019 + actualización anunciada
 37;37. Gestión de proyectos TIC.md;preguntasTema37.csv;31;0;0;ELABORADO;02/10/2026;42 págs. 31 preguntas OK (0 claves erróneas, 3 con matiz: 1289, 6327/7133, 902). PMBOK 8 y PRINCE2 7; Factoría/MCMI 2.0 no verificado
-38;38. Herramientas de Gestión TIC.md;preguntasTema38.csv;22;0;0;PENDIENTE;;
+38;38. Herramientas de Gestión TIC.md;preguntasTema38.csv;22;0;0;ELABORADO;02/10/2026;28 págs. 22 preguntas OK (0 claves erróneas; 6898 y 525 con datos no verificables en fuentes públicas). Rehecho con documentación oficial de Confluence SAS: categorías y flujos Jira, CMS, gestión del conocimiento
 39;39. El ciclo de vida de los sistemas de información.md;preguntasTema39.csv;42;1;0;PENDIENTE;;
 40;;preguntasTema40.csv;8;0;0;PENDIENTE;;
 41;41. Desarrollo Agil de Software.md;preguntasTema41.csv;59;0;0;PENDIENTE;;

@@ -5,15 +5,15 @@
 
 ## 1. Preguntas oficiales (CSV)
 
-23 preguntas, ninguna anulada. Todas cubiertas. **2 claves desactualizadas** por el Decreto-ley 3/2024 y 2 con denominaciones de órganos ya superadas (correctas en su época).
+23 preguntas, ninguna anulada. Todas cubiertas. 2 claves desactualizadas por el Decreto-ley 3/2024 (169 y 300), **corregidas el 02/10/2026 adaptando el enunciado** en `preguntasTema32.csv` (campo AVISO anotado), y 2 con denominaciones de órganos ya superadas (correctas en su época).
 
 | ID | Clave CSV | Verificación | Apartado |
 |---|---|---|---|
 | 26, 124 | A suministro / C servicios (a medida) | Correctas (art. 16.3.b LCSP). En la 124, el planteamiento ENS es irrelevante para lo preguntado | 2.4 |
 | 168 | D (rack, NAS/SAN, placa base) | Correcta (Anexo Instr. 1/2020) | 3.3 |
-| **169** | C (servidor 6.500 € requiere informe vinculante) | **Desactualizada.** Correcta con la redacción original de la Orden de 2012. Desde el DL 3/2024 (en vigor 17/02/2024) los contratos menores TIC solo requieren **comunicación**; A y B siguen siendo falsas (turnos y medida de redes están excluidos), por lo que hoy la respuesta sería **D** | 3.5, 3.6 |
+| 169 | C (servidor 6.500 € requiere informe vinculante) | Era una clave desactualizada por el DL 3/2024 (desde el 17/02/2024 los contratos menores TIC solo requieren **comunicación**). **Enunciado adaptado el 02/10/2026:** se añade «y en adquisiciones que no se tramiten como contrato menor». La clave C vuelve a ser correcta; A y B siguen siendo falsas (turnos y medida de redes están excluidos) | 3.5, 3.6 |
 | 271 | B comunicación por INFOCOR | Correcta | 3.3, 3.5 |
-| **300** | B (servidor 12.135 € → informe vinculante) | **Desactualizada** por el mismo motivo: hoy basta comunicación por ser contrato menor (C sería la más próxima, aunque su redacción «este tipo de hardware» no es exacta: no es por el tipo de bien, sino por la cuantía) | 3.6 |
+| 300 | B (servidor 12.135 € → informe vinculante) | Era una clave desactualizada por el mismo motivo. **Enunciado adaptado el 02/10/2026:** se añade «y su adquisición no se tramitará como contrato menor». B vuelve a ser correcta; D es falsa porque 12.135 € no supera el límite del contrato menor. Matiz: «una vez elegido el presupuesto más adecuado» encaja mejor con un menor, pero B es la única opción defendible | 3.6 |
 | 733 | B (hardware de turnos) | Correcta (Segundo 2.g) | 3.2 |
 | 734 | A solo informe | Correcta | 2.5.4, 3.1 |
 | 738 | C SSD-AAPP | Correcta (PAe, v4 de 2011) | 4.4.3 |

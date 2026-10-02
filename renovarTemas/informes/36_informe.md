@@ -1,15 +1,15 @@
 # Informe – Tema 36
 
 **Título oficial:** Buenas prácticas y certificaciones en la gestión de servicios de tecnologías de la información. El enfoque hacia procesos integrados. ITIL, y su ciclo de vida del servicio: estrategia del servicio, diseño del servicio, transición del servicio, operación del servicio. ISO 20000. La mejora continua basada en el modelo PDCA. COBIT: objetivos de control y métricas.
-**Fecha de elaboración:** 01/10/2026 · **Salida:** `salida/36. Buenas prácticas en la gestión de servicios TI. ITIL, ISO 20000, PDCA y COBIT.docx` (39 páginas)
+**Fecha de elaboración:** 01/10/2026 · **Revisión:** 02/10/2026 (clave 7021) · **Salida:** `salida/36. Buenas prácticas en la gestión de servicios TI. ITIL, ISO 20000, PDCA y COBIT.docx` (39 páginas)
 
 ## 1. Preguntas oficiales (CSV)
 
-56 preguntas, ninguna anulada. Todas cubiertas (además de las 9 del .md y las 5 de las imágenes del Word). **1 clave probablemente errónea** y **1 discutible**.
+56 preguntas, ninguna anulada. Todas cubiertas (además de las 9 del .md y las 5 de las imágenes del Word). **1 clave corregida en el CSV** (7021, de A a C, 02/10/2026) y **1 discutible**.
 
 | ID | Clave CSV | Verificación | Apartado |
 |---|---|---|---|
-| **7021** | A («documento que define todos los aspectos de un servicio y sus requisitos en cada etapa de su ciclo de vida») | **Probablemente errónea.** Esa es, literalmente, la definición del glosario ITIL v3 del **paquete de diseño del servicio (SDP)**. El catálogo de servicios es «base de datos o documento estructurado con información sobre todos los servicios de TI en producción», que encaja con la opción **C**. Se enseñan ambas definiciones y se avisa de la clave oficial | 4.4.1 (recuadro) |
+| **7021** | **Corregida en el CSV: A → C** (02/10/2026) | La clave original (A, «documento que define todos los aspectos de un servicio y sus requisitos en cada etapa de su ciclo de vida») es, literalmente, la definición ITIL v3 del **paquete de diseño del servicio (SDP)**. El catálogo de servicios es «base de datos o documento estructurado con información sobre todos los servicios de TI en producción»: opción **C**. CORRECTA_* actualizadas a N,N,S,N y motivo anotado en AVISO. El tema enseña la C como correcta y la A como distractor | 4.4.1 (recuadro), 8 |
 | **6325** | D Mejora continua (medidas correctivas y preventivas basadas en incidentes) | **Discutible.** La gestión de problemas (fase de Operación) también actúa reactiva y proactivamente sobre incidencias. Se explica la lógica de la clave (la «fase» de mejora) y el matiz | 4.8 (recuadro) |
 | 903 | C (fases desordenadas: Operación antes que Transición) | Correcta por eliminación: única opción con las cinco fases. Se advierte del orden | 4.3 |
 | 973 | B Planificación | Correcta; matiz: «Plan» sí es actividad de la cadena de valor, no componente del SVS | 4.10.1 |
